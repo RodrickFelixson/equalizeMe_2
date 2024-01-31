@@ -1,2 +1,3 @@
 tes.txt
 halo kon
+owner cok
